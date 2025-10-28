@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useCallback } from 'react';
 
-const API_KEY = 'HvoBEkhCqIfEymIC7E3BN5kEUeLTvg0z'; 
+const API_KEY = 'q1fgTVohRuQ19vkVaHslFH9sIZ9ZgzsZ'; 
 const BASE_CURRENCY = 'USD';
 const TARGET_CURRENCY = 'VND';
 const API_URL = `https://api.apilayer.com/currency_data/live?source=${BASE_CURRENCY}&currencies=${TARGET_CURRENCY}`;
